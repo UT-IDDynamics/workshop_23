@@ -43,3 +43,7 @@ create interactive shiny applications that allow users to explore and experience
 Like these shiny apps, but want to modify them or build your own? Shiny syntax can be a little confusing at first, but goes quickly once you get the hang of it. A nice place to start is: <https://mastering-shiny.org/basic-app.html>
 
 ###### The other files in the directory are different cuts of a dataset on cases of a regional outbreak of a virus. You can safely ignore them :)
+
+Questions? Comments? Concerns? Suggestions? Please contact us by creating an Issue or Pull Request using the tabs at the top of the page.
+
+## This workshop and the companion materials were made possible by generous funding from the Centers for Disease Control and Prevention.
