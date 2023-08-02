@@ -40,7 +40,7 @@ create interactive shiny applications that allow users to explore and experience
 
 (6) A fancier SIRV model is also available. Relative to #3, this script adds the ability to specify the number of initial infections and outputs the total vaccine doses given. Useful for in-person workshop exercise where we explore the effects of different vaccine allocation strategies across different scenarios. <https://uouiddworkshop.shinyapps.io/scenario2_sirv_shiny/>
 
-Like these shiny apps, but want to modify them or build your own? Shiny syntax can be a little confusing at first, but goes quickly once you get the hang of it. A nice place to start is: <https://mastering-shiny.org/basic-app.html>
+Like these shiny apps, but want to modify them or build your own? Shiny syntax can be a little confusing at first, but it goes quickly once you get the hang of it. A nice place to start is: <https://mastering-shiny.org/basic-app.html>
 
 ###### The other files in the directory are different cuts of a dataset on cases of a regional outbreak of a virus. You can safely ignore them :)
 
