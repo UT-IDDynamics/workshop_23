@@ -2,7 +2,7 @@
 require(deSolve)
 ## We'll code another compartmental model, but this time, we add a vaccinated 
 ## compartment. The approach is the "mass vaccination during an epidemic of a 
-## rare, nonendemic pathogen".Vaccination is with a perfect vaccine giving 
+## rare, nonendemic pathogen". Vaccination is with a perfect vaccine giving 
 ## instant, lifelong immunity to all vaccinated. For other variants, please 
 ## see Keeling and Rohani, chapter 8.
 
